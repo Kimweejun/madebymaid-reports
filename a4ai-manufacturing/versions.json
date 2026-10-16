@@ -1,0 +1,19 @@
+{
+  "current": "3",
+  "date": "2026-10-16",
+  "previous": "../a4ai-manufacturing-archive-20261016/",
+  "originalFilesSha256": {
+    "a4ai_manufacturing_presentation.pdf": "d8e75e3393f11b9b6e5c37214d1dcbe22a810c8b1022cbf3d815c6af20b6ceb9",
+    "index.html": "1abb9684812c9eae9a83a616e48b742130649a1b22c272029065f818f8fd2c00",
+    "img\\cover.jpg": "af9371fbf369bbaa2e7b2da83ccfb00313960290b4d0074684fa5e211a689ca6",
+    "img\\div1.jpg": "b6c8c4c310678a84be26d668676debfd29d916d225a7e4f2678f6994a768475d",
+    "img\\div2.jpg": "5cb2531a9c6452e08fa97320bae887860f10d13d24e6328849bbf5bc9e9735ea",
+    "img\\div3.jpg": "82fe83ec5ef0d577d061721379944aac7c5d548094071b5bb9c58564203cee94",
+    "img\\div5.jpg": "a34d2e3be36e00164b1d2665f668cfa79bda09684fd2b86fe52ea0194a8c989c",
+    "img\\field.jpg": "7ec0c5bd1240b260a533ac41151ae59442f79c760ad4524969a292cd0871b5f5",
+    "img\\logo_dark.png": "fc3f07e3735601c30135b9ff2663dbb76acd1612cc31ba296726363324a4f24f",
+    "img\\logo_light.png": "b95cadde2d2c60d4d636b0db5081a591d1c3188c5688977a1357d8b7763b086d",
+    "img\\trace.jpg": "c3f7679ab69570cf2c71bc604b00f97fc81f9d2f4ff4ced9e2701098fa6075c4",
+    "img\\voice.jpg": "cec3b3303afacad65562f34f1d4994b6c7c66aad073733dc8e04996b5e80edcb"
+  }
+}
