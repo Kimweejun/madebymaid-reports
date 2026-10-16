@@ -1,5 +1,5 @@
 {
-  "current": "3",
+  "current": "4-original-revision",
   "date": "2026-10-16",
   "previous": "../a4ai-manufacturing-archive-20261016/",
   "originalFilesSha256": {
@@ -15,5 +15,7 @@
     "img\\logo_light.png": "b95cadde2d2c60d4d636b0db5081a591d1c3188c5688977a1357d8b7763b086d",
     "img\\trace.jpg": "c3f7679ab69570cf2c71bc604b00f97fc81f9d2f4ff4ced9e2701098fa6075c4",
     "img\\voice.jpg": "cec3b3303afacad65562f34f1d4994b6c7c66aad073733dc8e04996b5e80edcb"
-  }
+  },
+  "basis": "원본 2차",
+  "scope": "기존 구성·디자인·그림·발표 기능을 유지하고 사용자 지적 항목과 연결된 표·대본·부록 수정"
 }
